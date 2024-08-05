@@ -15,6 +15,7 @@ npm install
 ```bash
 npm run dev
 ```
+This will start the development server and make the application available at `http://localhost:5173`.
 
 ### Accessing the Website
 To access the sushi website, use the following credentials:
